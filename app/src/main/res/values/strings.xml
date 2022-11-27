@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Birthday Card for You</string>
     <string name="main_message">Happy Birthday!</string>
+    <string name="happy_birthday_text">Happy Birthday, Yonatan!</string>
+    <string name="from_text">From Yony.</string>
+    <string name="cupcake_description">pastel cupcake with sparkles around it</string>
 </resources>
